@@ -2,10 +2,10 @@
 
 Backend Developer focused on scalable systems, clean architecture and production-grade software.
 
-- Node.js • .NETCORE • SQL • MongoDB
+- Node.js • .NETCORE • Android • Flutter • SQL • MongoDB
 - System design, APIs, integrations
 - DevOps, Docker, Kubernetes, Nginx
-- Cloud: AWS • Azure
+- Cloud: AWS
 
 ## Contact
 
@@ -14,7 +14,7 @@ Backend Developer focused on scalable systems, clean architecture and production
 ## Tech Stack
 
 **Backend**
-Node.js, Typescript, .NET,.NETCORE, Express, NestJS, REST APIs, JWT, Socket.io
+Node.js, Typescript, .NET, .NETCORE, Android, Flutter, Express, NestJS, REST APIs, JWT, Socket.io
 
 **Databases**
 MongoDB, PostgreSQL, MSSQL, MySQL, ElasticSearch
@@ -23,7 +23,7 @@ MongoDB, PostgreSQL, MSSQL, MySQL, ElasticSearch
 React, Next.js, MUI, Ant Design
 
 **DevOps & Infrastructure**
-Docker, Kubernetes, Nginx, AWS, Azure, CI/CD
+Docker, Kubernetes, Nginx, AWS, CI/CD
 
 ---
 
