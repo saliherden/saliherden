@@ -2,7 +2,7 @@
 
 Backend Developer focused on scalable systems, clean architecture and production-grade software.
 
-- Node.js • .NETCORE • Android • Flutter • SQL • MongoDB
+- Node.js • .NETCORE • Android • Flutter • GO • SQL • MongoDB
 - System design, APIs, integrations
 - DevOps, Docker, Kubernetes, Nginx
 - Cloud: AWS
