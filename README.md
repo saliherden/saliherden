@@ -13,14 +13,14 @@ Backend Developer focused on scalable systems, clean architecture and production
 
 ## Projects
 
-- CV Builder (Web & Android)** — Create professional CVs.
+- **CV Builder (Web & Android)** — Create professional CVs.
   - Web: https://ozgecmisolustur.com
   - Android: https://play.google.com/store/apps/details?id=ikimsyazilim.cv
 
-- Prayer Times (Android)** — Prayer times and Islamic utilities.
+- **Prayer Times (Android)** — Prayer times and Islamic utilities.
   - Android: https://play.google.com/store/apps/details?id=com.ikimsyazilim.islamic_utility_app
 
-- Workflow & Business Process Platform** — Manage production, inventory, purchasing, CRM and HR with automated workflows, notifications and role-based access control.
+- **Workflow & Business Process Platform** — Manage production, inventory, purchasing, CRM and HR with automated workflows, notifications and role-based access control.
   - Live Demo: https://flowproject202.vercel.app/
 
 ## Tech Stack
